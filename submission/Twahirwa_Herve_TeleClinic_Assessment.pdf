@@ -165,3 +165,56 @@ trailer
 startxref
 615466
 %%EOF
+
+% Written by MuPDF 1.27.2
+
+4 0 obj
+<</Type/Page/Contents[21 0 R 23 0 R]/MediaBox[0 0 595.2756 841.8898]/Parent 13 0 R/Resources<</Font<</F1 2 0 R/F2 3 0 R/Helv 22 0 R>>>>/Rotate 0/Trans<<>>/Annots[]>>
+endobj
+
+19 0 obj
+<</Type/Annot/Subtype/Redact/P 4 0 R/F 4/Rect[137.20392 699.5059 323.73796 711.8719]/IC[1 1 1]/OverlayText(https://github.com/twahih/Irembo-mel-assessment)/DA(0 0 0 rg /Helv 10 Tf)/Q 0/AP<</N 20 0 R>>/NM(fitz-A0)>>
+endobj
+
+20 0 obj
+<</Type/XObject/Subtype/Form/BBox[137.20392 699.5059 323.73796 711.8719]/Matrix[1 0 0 1 0 0]/Length 74/Filter/FlateDecode>>
+stream
+x⁄3T0 ¬ w.Cc=#cK#s=SSKÖ\.c##=scsK3Ñ`≤†°ÅûÖπ!HI;B´vBa5°´E¡ #F'
+endstream
+endobj
+
+21 0 obj
+<</Length 8378>>
+stream
+q q 1 0 0 1 62.69291 759.1969 cm .07451 .305882 .290196 rg BT 20 TL/F2 16 Tf 1 0 0 1 53.56888 4 Tm <54656c65436c696e696320506c6174666f726d2097204d6f6e74682033204c6561726e696e6720526576696577>Tj T* ET Q q 1 0 0 1 62.69291 735.1969 cm .501961 .501961 .501961 rg BT 12 TL/F2 9 Tf 1 0 0 1 0 3 Tm (Candidate:)Tj/F1 9 Tf ( Twahirwa, Herve)Tj T* ET Q q 1 0 0 1 62.69291 717.1969 cm .501961 .501961 .501961 rg BT 12 TL/F2 9 Tf 1 0 0 1 0 3 Tm (Role:)Tj/F1 9 Tf <204461746120416e616c7973742026204d454c204173736f636961746520b720>Tj/F2 9 Tf (Period:)Tj/F1 9 Tf <2046656296417072203230323620284d6f6e7468203329>Tj T* ET Q q 1 0 0 1 62.69291 699.1969 cm .501961 .501961 .501961 rg BT 12 TL/F2 9 Tf 1 0 0 1 0 3 Tm (Code repository:)Tj/F1 9 Tf ( )Tj T* ET Q q 1 0 0 1 62.69291 657.1969 cm .058824 .462745 .431373 rg BT 16 TL/F2 13 Tf 1 0 0 1 0 3 Tm (Part 1: Data Quality Audit)Tj T* ET Q q 1 0 0 1 62.69291 607.1969 cm 0 0 0 rg BT 2.122126 Tw 14 TL/F1 10 Tf 1 0 0 1 0 32 Tm (I started with the data dictionary, then ran missingness checks, duplicate primary-key tests, and join)Tj T* .257126 Tw (checks across all seven tables before calculating any performance numbers. Below is every material data)Tj T* 0 Tw (quality issue I found, with what I think caused it and what it means for reporting.)Tj T* ET Q q 1 0 0 1 56.69291 224.1969 cm .92549 .992157 .960784 rg 0 375 481.8898 -21 re f* 1 1 1 rg 0 354 481.8898 -43 re f* .972549 .980392 .988235 rg 0 311 481.8898 -43 re f* 1 1 1 rg 0 268 481.8898 -43 re f* .972549 .980392 .988235 rg 0 225 481.8898 -43 re f* 1 1 1 rg 0 182 481.8898 -43 re f* .972549 .980392 .988235 rg 0 139 481.8898 -32 re f* 1 1 1 rg 0 107 481.8898 -32 re f* .972549 .980392 .988235 rg 0 75 481.8898 -43 re f* 1 1 1 rg 0 32 481.8898 -32 re f* q 1 0 0 1 5 359 cm .07451 .305882 .290196 rg BT 11 TL/F2 9 Tf 1 0 0 1 0 2 Tm (#)Tj T* ET Q q 1 0 0 1 29.09449 359 cm .07451 .305882 .290196 rg BT 11 TL/F2 9 Tf 1 0 0 1 0 2 Tm (Issue)Tj T* ET Q q 1 0 0 1 135.1102 359 cm .07451 .305882 .290196 rg BT 11 TL/F2 9 Tf 1 0 0 1 0 2 Tm (Likely explanation)Tj T* ET Q q 1 0 0 1 308.5906 359 cm .07451 .305882 .290196 rg BT 11 TL/F2 9 Tf 1 0 0 1 0 2 Tm (Impact on reporting)Tj T* ET Q q 1 0 0 1 5 338 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (1)Tj T* ET Q q 1 0 0 1 29.09449 316 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (18 referrals \(17.6%\) with)Tj T* (missing authorisation)Tj T* (status)Tj T* ET Q q 1 0 0 1 135.1102 316 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (Referral initiated clinically but authorisation)Tj T* (never recorded or did not sync \(NULL =)Tj T* (missing record\))Tj T* ET Q q 1 0 0 1 308.5906 327 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (RM-01/02 metrics unreliable; processing)Tj T* (time cannot be calculated)Tj T* ET Q q 1 0 0 1 5 295 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (2)Tj T* ET Q q 1 0 0 1 29.09449 273 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (122 completed consults)Tj T* (without notes; 169)Tj T* (without ICD)Tj T* ET Q q 1 0 0 1 135.1102 284 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Clinicians closing under time pressure; no)Tj T* (hard stop before sign-off)Tj T* ET Q q 1 0 0 1 308.5906 284 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Clinical audit weakened; quality metrics)Tj T* (must use completed consults only)Tj T* ET Q q 1 0 0 1 5 252 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (3)Tj T* ET Q q 1 0 0 1 29.09449 230 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (307 rows with null)Tj T* (diagnosis/notes/ICD/call_)Tj T* (type \(27.6%\))Tj T* ET Q q 1 0 0 1 135.1102 241 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Expected for cancelled/no-show bookings)Tj T* <97206e6f742061206461746120656e74727920627567>Tj T* ET Q q 1 0 0 1 308.5906 241 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Misleading if included in clinical quality)Tj T* (denominators)Tj T* ET Q q 1 0 0 1 5 209 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (4)Tj T* ET Q q 1 0 0 1 29.09449 187 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (213 incomplete)Tj T* (registrations / failed)Tj T* (validation)Tj T* ET Q q 1 0 0 1 135.1102 198 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Insurance API: NID not found, expired)Tj T* (cover, timeouts)Tj T* ET Q q 1 0 0 1 308.5906 198 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Onboarding funnel incomplete; 491)Tj T* (registered patients never booked)Tj T* ET Q q 1 0 0 1 5 166 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (5)Tj T* ET Q q 1 0 0 1 29.09449 144 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (62 lab results uploaded)Tj T* (but not viewed by)Tj T* (clinician)Tj T* ET Q q 1 0 0 1 135.1102 166 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (No alert when results sit unreviewed)Tj T* ET Q q 1 0 0 1 308.5906 155 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm <50617469656e7420736166657479207269736b209720726573756c7473206d6179206e65766572>Tj T* (reach patient)Tj T* ET Q q 1 0 0 1 5 123 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (6)Tj T* ET Q q 1 0 0 1 29.09449 112 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (23 lab tests without)Tj T* (uploaded results)Tj T* ET Q q 1 0 0 1 135.1102 123 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (Lab capacity, sample issues, or sync delay)Tj T* ET Q q 1 0 0 1 308.5906 123 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (Lab completion and TAT metrics incomplete)Tj T* ET Q q 1 0 0 1 5 91 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (7)Tj T* ET Q q 1 0 0 1 29.09449 80 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (81 prescriptions not)Tj T* (dispensed)Tj T* ET Q q 1 0 0 1 135.1102 80 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Non-collection, stock-out, or care pathway)Tj T* (change)Tj T* ET Q q 1 0 0 1 308.5906 80 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Care continuity gap; hard to separate)Tj T* (clinical vs operational reasons)Tj T* ET Q q 1 0 0 1 5 59 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (8)Tj T* ET Q q 1 0 0 1 29.09449 37 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 24.5 Tm (15 referrals not)Tj T* (authorised + 18)Tj T* (unknown status)Tj T* ET Q q 1 0 0 1 135.1102 48 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Triage rejection or admin backlog at)Tj T* (receiving facility)Tj T* ET Q q 1 0 0 1 308.5906 48 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Patient may not know referral was denied or)Tj T* (stalled)Tj T* ET Q q 1 0 0 1 5 16 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (9)Tj T* ET Q q 1 0 0 1 29.09449 5 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (failure_reason null on)Tj T* (987 insurance log rows)Tj T* ET Q q 1 0 0 1 135.1102 16 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 2.5 Tm (Field only populated on failed attempts)Tj T* ET Q q 1 0 0 1 308.5906 5 cm 0 0 0 rg BT 11 TL/F1 8.5 Tf 1 0 0 1 0 13.5 Tm (Fine if filtered to failures; misleading if)Tj T* (reported raw)Tj T* ET Q q .796078 .835294 .882353 RG 1 J 1 j .4 w 0 375 m 481.8898 375 l S 0 0 m 481.8898 0 l S 0 0 m 0 375 l S 481.8898 0 m 481.8898 375 l S 0 354 m 481.8898 354 l S 0 311 m 481.8898 311 l S 0 268 m 481.8898 268 l S 0 225 m 481.8898 225 l S 0 182 m 481.8898 182 l S 0 139 m 481.8898 139 l S 0 107 m 481.8898 107 l S 0 75 m 481.8898 75 l S 0 32 m 481.8898 32 l S 24.09449 0 m 24.09449 375 l S 130.1102 0 m 130.1102 375 l S 303.5906 0 m 303.5906 375 l S Q Q q 1 0 0 1 62.69291 188.1969 cm .066667 .368627 .34902 rg BT 14 TL/F2 11 Tf 1 0 0 1 0 3 Tm (Join problem)Tj T* ET Q q 1 0 0 1 62.69291 112.1969 cm 0 0 0 rg BT .447674 Tw 14 TL/F1 10 Tf 1 0 0 1 0 60 Tm <4920636865636b656420657665727920666f726569676e206b6579206c696e6b202870617469656e745f69642c20636f6e73756c746174696f6e5f69642c206f726967696e616c5f636f6e73756c745f6964292e20416c6c20494473206d6174636820636c65616e6c792097>Tj T* .201318 Tw (zero orphan records. The deliberate referral issue is different: 18 referrals have a valid consultation_id but)Tj T* .856976 Tw (NULL authorised, authorisation_datetime, and processing_hours. I treated these as incomplete workflow)Tj T* .223735 Tw (records, not bad joins. For referral authorisation rate I used only records with known status \(69 authorised)Tj T* 0 Tw (out of 84 known = 82.1%\), and reported the 18 unknowns separately rather than dropping them.)Tj T* ET Q q 1 0 0 1 62.69291 88.19685 cm .066667 .368627 .34902 rg BT 14 TL/F2 11 Tf 1 0 0 1 0 3 Tm (Low-volume district: Musanze)Tj T* ET Q Q
+endstream
+endobj
+
+22 0 obj
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding>>
+endobj
+
+23 0 obj
+<</Length 176/Filter/FlateDecode>>
+stream
+x⁄=N±jC1‹ı˙◊ñÏì•C 4dkÒV:îæÁvhÜd»˜G/År†;N“qt¶¢ñ$´√=µ‹úKGjZ≥rë§hn|YÈó
+oxÂá∏¸éﬁàŒ¥±ÀÅ∞ˇ„,◊§›yú¯È∞˛]ŸxÃ˚]ﬁR"R>û—≠≤©~…î	É[¸ZÉ»
+≈ƒ"3.é.≥∫	¶,¡ﬂ¡≈‘¢Û}nﬁjıÂsi?¢Îó†4ó
+endstream
+endobj
+
+xref
+4 1
+0000616091 00000 n 
+19 5
+0000616273 00000 n 
+0000616505 00000 n 
+0000616738 00000 n 
+0000625168 00000 n 
+0000625258 00000 n 
+
+trailer
+<</ID[<7DFA987BB8EA049C52D29FB1BC111237><572CD0A8D29607BE540F3DC3BDEFB7E5>]/Info 12 0 R/Root 11 0 R/Size 24/Prev 615466>>
+startxref
+625504
+%%EOF
