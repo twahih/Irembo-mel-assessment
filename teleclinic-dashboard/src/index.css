@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-display: "Instrument Serif", Georgia, serif;
+  --color-teal-950: #042f2e;
+  --color-teal-900: #134e4a;
+  --color-teal-800: #115e59;
+  --color-teal-700: #0f766e;
+  --color-teal-600: #0d9488;
+  --color-teal-500: #14b8a6;
+  --color-teal-100: #ccfbf1;
+  --color-teal-50: #f0fdfa;
+  --color-slate-850: #172033;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: linear-gradient(145deg, #f0fdfa 0%, #f8fafc 40%, #eff6ff 100%);
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+}
+
+.dashboard-page .recharts-responsive-container {
+  height: 100% !important;
+  min-height: 90px;
+}
+
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke: #e2e8f0;
+}
+
+.recharts-text {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  fill: #64748b;
+}
